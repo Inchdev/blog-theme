@@ -1,12 +1,8 @@
 # Inch blog theme
 
-<<<<<<< HEAD
 Theme for [Inch blog](https://blog.inch.fr)
 
 Inspired by Casper, the default theme for [Ghost](http://github.com/tryghost/ghost/).
-=======
-The default theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Casper. If you're just looking to download the latest release, head over to the [releases](https://github.com/TryGhost/Casper/releases) page.
->>>>>>> 8729af090f8fcd872e6ff0c10f46fb0375527692
 
 &nbsp;
 
